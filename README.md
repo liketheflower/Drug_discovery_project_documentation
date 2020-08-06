@@ -20,7 +20,8 @@ This project is mainly based on three papers:
 ## Network structure  
 We have TWO PARTS:
 1. Unsupervised machine learning part.
-2. Supervised machine learning part. '
+2. Supervised machine learning part.  
+
 For the first part, we have two branches, one is used to predict the adjacency matrix as the VGAE paper. One is used to predict the Fingerprint.
 So, in total, we have three branches as shown here ![network architecture](./network_structure.png).
 
