@@ -22,7 +22,7 @@ We have TWO PARTS:
 1. Unsupervised machine learning part.
 2. Supervised machine learning part. '
 For the first part, we have two branches, one is used to predict the adjanct matrix as the VGAE paper. One is used to predict the Fingerprint.
-So, in total, we have three branches as shown in the [network architecture](./network_structure.png).
+So, in total, we have three branches as shown in the ![network architecture](./network_structure.png).
 
 
 ## Branch 3: Graph classification tutorial  
