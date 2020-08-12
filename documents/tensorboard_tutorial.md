@@ -19,4 +19,5 @@ http://127.0.0.1:6605/
 
 ## What you can see?
 You can see something like this.
-![tensorbaord](./tf_screenshot.png)
+![tensorbaord](./tf_screen1.png)
+![tensorbaord2](./tf_screen2.png)
