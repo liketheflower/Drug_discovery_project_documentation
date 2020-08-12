@@ -41,5 +41,5 @@ https://github.com/liketheflower/graph_classification_jak
 ## Code base overview
 ## How to switch between different branches
 ## [One hot encoding design and related code](https://medium.com/@jim.morris.shen/one-hot-encoding-33bcb4a0cfae?sk=9b274cbf39fd274b69f9bc0ecf3043e1)
-## [Gradual unfreezing desgin and related code](./design_documents/gradual_unfreezing_design.md)
+## [Gradual unfreezing desgin and related code](./documents/gradual_unfreezing_design.md)
 ## [How to use tensorboard](./documents/tensorboard_tutorial.md)
