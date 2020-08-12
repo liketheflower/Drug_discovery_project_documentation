@@ -36,3 +36,6 @@ Detail of the network structure can be found from [Here](https://docs.google.com
 ## Code for the whole system  
 Code of the whole system can be get from the github. It is a private repo, please sending email to jim.morris.shen@gmail.com to ask for accessing.
 https://github.com/liketheflower/graph_classification_jak
+
+## Whole system design document 
+## [One hot encoding design](https://medium.com/@jim.morris.shen/one-hot-encoding-33bcb4a0cfae?sk=9b274cbf39fd274b69f9bc0ecf3043e1)
