@@ -32,6 +32,8 @@ The graph calssification is based on the GIN. tutorial can be found from [Tutori
 ## Branch 1 and 2 
 Branch 1 and 2 is essential a GAE. It is using the GAE model introducted in the VGAE paper. At the same time, the encoder network is replaced to the network of GIN.
 Detail of the network structure can be found from [Here](https://docs.google.com/presentation/d/1QVJ7PIigq2_PYAqfscvivH7Qml0zFtXLm0Vl30Kcg78/edit?usp=sharing)
+For the final implementation, the VGINAE branch is based on a variational GINAE implementation. The motiff learning part is using GINAE implementation. The motiff part can also be changed to VGINAE if necessary.
+The VGINAE's variational implementation based on DGL/Pytorch was modified based on the original tensorflow implentation of the VGAE model. The original tensorflow implementation can be found [HERE](https://github.com/tkipf/gae)
 
 ## Code for the whole system  
 Code of the whole system can be get from the github. It is a private repo, please sending email to jim.morris.shen@gmail.com to ask for accessing.
